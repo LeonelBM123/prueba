@@ -1,5 +1,5 @@
 void XMLDocument(){
-    //modificacion
+    //modificacion sexo
     this.createElement = function(tagName) {
         return "<" + tagName + "></" + tagName + ">";
     };
